@@ -45,7 +45,7 @@ freq = (0:src.bin/2)' * df; % Frequency vector
 
 figure
 hold on;
-
+%% change for github
 for d = 1:length(src.dynamic)
     for s = src.subjects    
         for t = src.trials
